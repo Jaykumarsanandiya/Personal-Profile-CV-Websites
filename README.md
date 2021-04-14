@@ -10,8 +10,8 @@ Visit:
 
 # HOMEPAGE 
 ![](p1.png)
-![](p2.png)
-![](p3.png)
+
+# Footer
 ![](p4.png)
 
 
