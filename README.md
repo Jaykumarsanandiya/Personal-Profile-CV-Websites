@@ -11,6 +11,8 @@ including
 
 4)Debugging through chrome pesticide
 
+You can see it in PC or mobile( Ladcape mode) only. This is not responsive website.
+
 
 Visit: https://jaykumarsanandiya.github.io/Personal-Profile-CV-Websites/
 
